@@ -1,0 +1,19 @@
+		Na podstawie przykładu ze zdjęcia:
+
+P1,P2...P8 - procesy(od góry do dołu), gdzie P1 - proc. macierzysty
+
+					 P1
+				        / | \
+				       /  |  \
+				      /   |   \
+                                     P5   P2   P3
+                                          /\    \
+                                         /  \    \
+                                        P4  P6   P7
+                                       /
+                                      P8
+
+
+(brak) - wykonane w 1 forku
+"--" - wykonane w 2 forku
+"----" - wykonane w 3 forku
